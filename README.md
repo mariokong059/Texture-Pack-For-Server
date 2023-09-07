@@ -1,4 +1,5 @@
 # Texture-Pack-For-Server
 just a texture pack :) so I can have a pack for my server
 
-https://media.discordapp.net/attachments/1111115131955466270/1147961104706838568/Untitled.png?width=613&height=613
+![image](https://github.com/mariokong059/Texture-Pack-For-Server/assets/98559682/2c527b13-343a-4585-9c8e-a2c4be058972)
+
